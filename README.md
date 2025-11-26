@@ -1,7 +1,7 @@
 <h1 align="center"><i>Hello World, I'm Dan! 🐰</i></h1>
 <p align="center">
-  <img src="https://github.com/dlbarretto/dlbarretto/blob/c57c88fbd3ed70825f1aff147c200ade93e23fce/io/dlbarrettobg.gif" alt="Dan's Banner" width="100%"/>
-</p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dlbarretto&show_icons=true&theme=tokyonight" height="180px"/>
+</p> 
 <h4 align="center">
   I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
   I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skillsets and intellect.
