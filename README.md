@@ -1,9 +1,7 @@
 <h1 align="center"><i>Hello World, I'm Dan! 🐰</i></h1>
-
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/c57c88fbd3ed70825f1aff147c200ade93e23fce/io/dlbarrettobg.gif" alt="Dan's Banner" width="100%"/>
 </p>
-
 <h4 align="center">
   I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
   I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skillsets and intellect.
@@ -13,13 +11,11 @@
 
 <div align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/217d2140229cf9e69b28f28ba0378dcb02218010/download.gif" height="230px" style="margin-right:50px;"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&show_icons=true&theme=tokyonight" height="180px" style="margin-left:20px;"/>
   <img src="https://github.com/dlbarretto/dlbarretto/blob/d267865e1b661c73745e78db65f0c779c3184389/gifgithub.gif" height="250px"/>
 </div>
 
-<br>
+
 
 <h3>💻 My Languages & Tools</h3>  
 
@@ -51,12 +47,14 @@
   <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+
 <br><br>
 
 <h4 align="center">
 ✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀
 </h4>
-
 <div align="center">
-  <img src="https://github.com/dlbarretto/dlbarretto/blob/b985565f1ff6a9b89d5aa3c1e22e8762bc82d24b/Assets/FOR%20MY%20LOVE%20(1).gif" height="525px" width="1000px"/>
+  <img src="https://github.com/dlbarretto/dlbarretto/blob/b985565f1ff6a9b89d5aa3c1e22e8762bc82d24b/Assets/FOR%20MY%20LOVE%20(1).gif" height="525px" wdith="1000px"/>
 </div>
+
+
