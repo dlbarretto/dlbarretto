@@ -17,7 +17,7 @@
 
 
 
-<h3>💻 My Languages & Tools</h3>  
+<h3>My Tools</h3>  
 
 <div align="center">
 
