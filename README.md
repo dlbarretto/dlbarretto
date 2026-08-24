@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/c57c88fbd3ed70825f1aff147c200ade93e23fce/io/dlbarrettobg.gif" alt="Dan's Banner" width="100%"/>
 </p>
-<h4 align="center">
-</h4>
-
-<br>
 
 <div align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/217d2140229cf9e69b28f28ba0378dcb02218010/download.gif" height="230px" style="margin-right:50px;"/>
